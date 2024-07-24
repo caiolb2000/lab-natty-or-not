@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto de IA Generativa: Aventura Futurista
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora a criação de conteúdos sobre exploração espacial usando IAs Generativas. Inclui uma história curta e imagens que ilustram um planeta alienígena.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT**: Geração de texto.
+- **DeepAI Text to Image**: Geração de imagens.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- **História Curta**: “Uma equipe de astronautas descobre um planeta misterioso.”
+- **Descrição do Planeta**: “Um planeta com paisagens exóticas e tecnologia avançada.”
+- **Imagens**: Criadas com DeepAI para ilustrar o planeta com prompt "Planeta alienígina com montanhas flutuantes e tecnologia avançada.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **História e Descrição**: 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A equipe da Aurora pousou em um planeta de paisagens extraordinárias, onde montanhas flutuavam no céu e rios de luz serpenteavam pela superfície. Explorando o local, descobriram uma estrutura antiga com símbolos misteriosos. Uma entidade holográfica revelou que o planeta era um repositório de conhecimento de uma civilização antiga, e os astronautas partiram maravilhados com a descoberta.
 
-### Exemplos e Insigths
+O planeta alienígena exibe paisagens exóticas com montanhas flutuantes e rios de luz pulsante. A superfície é adornada com estruturas tecnológicas avançadas, resplandecendo com uma energia misteriosa e complexa.
+- **Imagens**:
+- ![9add3958-fcc6-4f06-b1af-1d4f71c5e8c8](https://github.com/user-attachments/assets/c9f65bf8-9da9-4adc-b120-3dde8055b4e0)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
